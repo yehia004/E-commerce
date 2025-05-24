@@ -1,0 +1,22 @@
+.container {
+      position: relative;
+      max-width: 100%;
+      margin: 0px auto;
+      /* background: url('Share.png') no-repeat center center; */
+      background-size: cover;
+      height: 768px;
+    }
+    .container img {
+      position: absolute;
+      object-fit:fill;
+      box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+    }
+    .img1 { top: 52px; left: 37px; width: fit-content ; height: 380px; }
+    .img2 { top: 110px; left: 130px; width: 450px; height: 312px; }
+    .img3 { top: 200px; left: 600px; width: 300px; height: 420px; }
+    .img4 { top: 110px; left: 950px; width: 290px; height: 350px; }
+    .img5 { top: 52px; left: 1250px; width: 250px; height: 430px; }
+    .img6 { top: 440px; left: 37px; width: 150px; height: 323px }
+    .img7 { top: 430px; left: 210px; width: 344px; height: 240px; }
+    .img8 { top: 470px; left: 910px; width: 178px; height: 240px; }
+    .img9 { top: 490px; left: 1100px; width: 258px; height: 199px; }

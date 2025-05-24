@@ -1,0 +1,74 @@
+[
+    {
+      "id": 1,
+      "title": "Syltherine",
+      "description": "Stylish cafe chair",
+      "price": "Rp 2.500.000",
+      "oldPrice": "Rp 3.500.000",
+      "tag": "-30%",
+      "image": "image 4 (1).png"
+    },
+    {
+      "id": 2,
+      "title": "Leviosa",
+      "description": "Stylish cafe chair",
+      "price": "Rp 2.500.000",
+      "oldPrice": null,
+      "tag": null,
+      "image": "Images (2).png"
+    },
+    {
+      "id": 3,
+      "title": "Lolito",
+      "description": "Luxury big sofa",
+      "price": "Rp 7.000.000",
+      "oldPrice": "Rp 14.000.000",
+      "tag": "-50%",
+      "image": "Images (3).png"
+    },
+    {
+      "id": 4,
+      "title": "Respira",
+      "description": "Outdoor bar table and stool",
+      "price": "Rp 500.000",
+      "oldPrice": null,
+      "tag": "New",
+      "image": "Images (4).png"
+    },
+    {
+      "id": 5,
+      "title": "Lunaria",
+      "description": "Stylish cafe chair",
+      "price": "Rp 2.500.000",
+      "oldPrice": null,
+      "tag": null,
+      "image": "Images (5).png"
+    },
+    {
+      "id": 6,
+      "title": "Sofacompany",
+      "description": "Luxury big sofa",
+      "price": "Rp 7.000.000",
+      "oldPrice": null,
+      "tag": null,
+      "image": "Images (6).png"
+    },
+    {
+      "id": 7,
+      "title": "Sofacompany",
+      "description": "Luxury big sofa",
+      "price": "Rp 7.000.000",
+      "oldPrice": null,
+      "tag": null,
+      "image": "Images (7).png"
+    }, 
+    {
+      "id": 8,
+      "title": "Sofacompany",
+      "description": "Luxury big sofa",
+      "price": "Rp 7.000.000",
+      "oldPrice": null,
+      "tag": null,
+      "image": "Images (7).png"
+    }
+]

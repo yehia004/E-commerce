@@ -1,4 +1,3 @@
-Absolutely! Here's a comprehensive, detailed project documentation template including author's information:
 
 ---
 

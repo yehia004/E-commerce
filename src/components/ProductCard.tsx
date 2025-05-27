@@ -103,8 +103,26 @@ const ProductCard = ({
       </CardContent>
 
       <CardActions sx={{ justifyContent: 'center', pb: 2 }}>
-        <Button size="small" variant="outlined"> Share</Button>
-        <Button size="small" variant="outlined">Like</Button>
+        <Button
+         size="small" variant="outlined" 
+           sx={{
+            color: '#B88E2F',
+            borderColor: '#B88E2F',
+            '&:hover': {
+              backgroundColor: '#B88E2F10',
+              borderColor: '#B88E2F',
+          },
+        }}> Share</Button>
+              <Button
+         size="small" variant="outlined"
+           sx={{
+               color: '#B88E2F',
+                borderColor: '#B88E2F',
+              '&:hover': {
+                backgroundColor: '#B88E2F10',
+                borderColor: '#B88E2F',
+         },
+         }}>Like</Button>
         </CardActions>
        
        <Box
@@ -121,8 +139,16 @@ const ProductCard = ({
     <Button
       onClick={handleAddToCart}
       size="small"
-      variant="contained"
-      color="primary"
+      variant="outlined"
+        sx={{
+    color: '#B88E2F',
+    borderColor: '#B88E2F',
+    '&:hover': {
+      backgroundColor: '#B88E2F10',
+      borderColor: '#B88E2F',
+    },
+  }}
+      
     >
       Add to Cart
     </Button>
@@ -135,18 +161,4 @@ const ProductCard = ({
 export default ProductCard;
 
 
-        {/* <Button
-          onClick={handleAddToCart}
-          size="small"
-          variant="contained"
-          color="primary"
-          className="add-to-cart-btn"
-          sx={{
-            position: 'absolute',
-            bottom: '10px',
-            opacity: 0,
-            transition: 'opacity 0.3s ease',
-          }}
-        >
-          Add to Cart
-        </Button> */}
+
